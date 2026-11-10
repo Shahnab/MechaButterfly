@@ -1,0 +1,8 @@
+{
+  "name": "Mecha Butterfly",
+  "description": "Interactive 3D mechanical butterfly kinetic architecture with custom shaders, WebGPU/WebGL rendering, articulated wing morphing, and real-time rotation and speed controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
